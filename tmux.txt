@@ -1,0 +1,1 @@
+mit shift + mouse lässt sich text auswählen, als würde tmux nicht existieren
